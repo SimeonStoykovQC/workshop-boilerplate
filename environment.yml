@@ -1,0 +1,7 @@
+name: workshop
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - matplotlib
